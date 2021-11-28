@@ -9,6 +9,9 @@ readme = "README.md"
 python = "^3.8"
 transformers = "^4.12.5"
 streamlit = "^1.2.0"
+torch = "^1.10.0"
+onnxruntime = "^1.9.0"
+onnxruntime-tools = "^1.7.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
